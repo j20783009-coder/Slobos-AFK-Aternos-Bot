@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "theoutpost1-zxUc.aternos.me:43065",
-    "port": 43065,
+    "ip": "Theartistsserver.aternos.me",
+    "port": 41302,
     "version": "",
     "try-creative": false
   },
